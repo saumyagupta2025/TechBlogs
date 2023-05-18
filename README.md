@@ -11,11 +11,11 @@ I'm also thrilled to announce that I have recently joined Hashnode, a vibrant an
 
 ## Blogs Written Till Now
 Here is a list of the blog posts that I have written so far:
-* [Kubernetes vs Docker Swarm: A Comparative Analysis for Container Orchestration] (https://saumyagupta.hashnode.dev/kubernetes-vs-docker-swarm-a-comparative-analysis-for-container-orchestration)
-* [The Ultimate Guide to Selecting the Best Storage and Data Management Tool for Your Needs] (https://saumyagupta.hashnode.dev/the-ultimate-guide-to-selecting-the-best-storage-and-data-management-tool-for-your-needs)
-* [Kubernetes as a Platform for Deploying Machine Learning Models: A Game-Changer for Scalability] (https://saumyagupta.hashnode.dev/kubernetes-as-a-platform-for-deploying-machine-learning-models-a-game-changer-for-scalability)
-* [Understanding the Fundamentals of RESTful API Architecture] (https://saumyagupta.hashnode.dev/understanding-the-fundamentals-of-restful-api-architecture)
-* [Tackling Imbalanced Data in Machine Learning: Techniques for Accurate Predictions] (https://saumyagupta.hashnode.dev/tackling-imbalanced-data-in-machine-learning-techniques-for-accurate-predictions)
-* [An Introduction to the World of Machine Learning: From Buzzword to Breakthrough] (https://saumyagupta.hashnode.dev/an-introduction-to-the-world-of-machine-learning-from-buzzword-to-breakthrough)
-* [APIs for Beginners: Understanding What They Are & How They Work] (https://saumyagupta.hashnode.dev/apis-for-beginners-understanding-what-they-are-how-they-work)
+* [Kubernetes vs Docker Swarm: A Comparative Analysis for Container Orchestration](https://saumyagupta.hashnode.dev/kubernetes-vs-docker-swarm-a-comparative-analysis-for-container-orchestration)
+* [The Ultimate Guide to Selecting the Best Storage and Data Management Tool for Your Needs](https://saumyagupta.hashnode.dev/the-ultimate-guide-to-selecting-the-best-storage-and-data-management-tool-for-your-needs)
+* [Kubernetes as a Platform for Deploying Machine Learning Models: A Game-Changer for Scalability](https://saumyagupta.hashnode.dev/kubernetes-as-a-platform-for-deploying-machine-learning-models-a-game-changer-for-scalability)
+* [Understanding the Fundamentals of RESTful API Architecture](https://saumyagupta.hashnode.dev/understanding-the-fundamentals-of-restful-api-architecture)
+* [Tackling Imbalanced Data in Machine Learning: Techniques for Accurate Predictions](https://saumyagupta.hashnode.dev/tackling-imbalanced-data-in-machine-learning-techniques-for-accurate-predictions)
+* [An Introduction to the World of Machine Learning: From Buzzword to Breakthrough](https://saumyagupta.hashnode.dev/an-introduction-to-the-world-of-machine-learning-from-buzzword-to-breakthrough)
+* [APIs for Beginners: Understanding What They Are & How They Work](https://saumyagupta.hashnode.dev/apis-for-beginners-understanding-what-they-are-how-they-work)
 
