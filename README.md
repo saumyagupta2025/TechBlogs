@@ -7,7 +7,7 @@ Welcome to the TechBlogs repository! I'm Saumya, the creator of this repository.
 In this repository, you'll find a collection of blog posts covering various topics related to technology. From web development with HTML, CSS, and JavaScript to data science, machine learning, and a touch of DevOps, I strive to provide valuable insights and resources for beginners and experienced professionals alike.
 
 ## Introducing Hashnode
-I'm also thrilled to announce that I have recently joined Hashnode, a vibrant and inclusive community for developers and tech enthusiasts. You can find my blog posts and connect with me on Hashnode by visiting my profile: [https://saumyagupta.hashnode.dev/].
+I'm also thrilled to announce that I have recently joined Hashnode, a vibrant and inclusive community for developers and tech enthusiasts. You can find my blog posts and connect with me on Hashnode by visiting my profile [here](https://saumyagupta.hashnode.dev/).
 
 ## Blogs Written Till Now
 Here is a list of the blog posts that I have written so far:
