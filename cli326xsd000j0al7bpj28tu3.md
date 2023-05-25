@@ -1,5 +1,6 @@
 ---
 title: "GraphQL: The API that gives you exactly what you need, no more, no less."
+seoTitle: "GraphQL: The API That Gives You More Control Over Your Data"
 seoDescription: "GraphQL: The API That Gives You More Control Over Your Data"
 datePublished: Thu May 25 2023 11:36:49 GMT+0000 (Coordinated Universal Time)
 cuid: cli326xsd000j0al7bpj28tu3
