@@ -20,7 +20,7 @@ Imagine you're at a bustling supermarket, where numerous shoppers are engaged in
 
 OLTP acts as the engine behind the scenes, ensuring smooth operations by accurately processing transactions such as sales, orders, inventory updates, and customer interactions. The goal of OLTP is to provide real-time processing, enabling businesses to keep up with the fast-paced demands of their operations while maintaining the integrity and accuracy of their data.
 
-### Characteristics of OLTP Systems:
+### Characteristics of OLTP Systems
 
 * OLTP systems handle real-time or near-real-time transactions, providing immediate responses.
     
