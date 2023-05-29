@@ -1,10 +1,10 @@
 ---
-title: "The Ultimate Guide to Passing the AZ-900 Exam"
+title: "How I Prepared for Microsoft's AZ-900 Certification"
 seoTitle: "How I Prepared for Microsoft Azure's AZ-900 Exam"
 seoDescription: "Mastering Azure Fundamentals and Conquering the AZ-900 Exam"
 datePublished: Tue May 23 2023 03:30:42 GMT+0000 (Coordinated Universal Time)
 cuid: clhzpy2xx09yst3nvb3h64jby
-slug: the-ultimate-guide-to-passing-the-az-900-exam
+slug: how-i-prepared-for-microsofts-az-900-certification
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684772818481/5e1509c8-51dd-4991-8b1a-d4284a8535cf.jpeg
 tags: cloud, azure, cloud-computing, azure-certified, microsoft-azure-certification
 
