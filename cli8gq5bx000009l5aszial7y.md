@@ -18,7 +18,7 @@ In today's fast-paced business world, data processing holds tremendous significa
 
 Imagine you're at a bustling supermarket, where numerous shoppers are engaged in various transactions, from scanning items at the checkout to updating inventory levels. This is similar to how OLTP (Online Transaction Processing) works in the world of data processing. Just like the supermarket's point-of-sale system swiftly records each customer's purchases and updates the inventory in real-time, OLTP focuses on handling immediate, day-to-day business transactions.
 
-OLTP acts as the engine behind the scenes, ensuring smooth operations by accurately processing transactions such as sales, orders, inventory updates, and customer interactions. It functions like the gears of a well-oiled machine, seamlessly handling the flow of data to keep the business running efficiently. The goal of OLTP is to provide real-time processing, enabling businesses to keep up with the fast-paced demands of their operations while maintaining the integrity and accuracy of their data.
+OLTP acts as the engine behind the scenes, ensuring smooth operations by accurately processing transactions such as sales, orders, inventory updates, and customer interactions. The goal of OLTP is to provide real-time processing, enabling businesses to keep up with the fast-paced demands of their operations while maintaining the integrity and accuracy of their data.
 
 ### Characteristics of OLTP Systems:
 
